@@ -271,9 +271,9 @@ The dataset is relatively small, so the model should be validated on larger and 
 
 Data Analyst / Machine Learning Project
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: `https://github.com/brahmaiahchereddy1049-arch`
 
-LinkedIn: `https://www.linkedin.com/in/YOUR_USERNAME/`
+LinkedIn: `https://www.linkedin.com/in/brahmaiah-chereddy-5b0050346/`
 
 ## License
 
